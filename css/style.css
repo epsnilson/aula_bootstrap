@@ -1,0 +1,39 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+.img-logo{
+    padding-left: 20px;
+}
+.navbar {   
+    background-color: #1997E5;
+     /* - Amarelo  
+   background-color: #E5D719; 
+    */
+}
+.menu-top{
+    padding-top: 20px;
+}
+.menu-color {    
+    color: white;
+}
+.amigos{
+    background-color: blue ;
+    color: white;
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.parceiros{
+    background-color: #008b8b;
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+/* link visitado*/
+a:visited {
+    color: white;
+  }
